@@ -18,3 +18,18 @@ function johnLennonFacts(array){
 
   return array
 }
+
+
+function iLoveTheBeatles(no){
+  let array = []
+  if (no != 7){
+    n = 0
+  }
+  
+
+  while (no>=0){
+    array.push("I love the Beatles!")
+    n--
+  }
+  
+}
