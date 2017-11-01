@@ -23,7 +23,7 @@ function johnLennonFacts(array){
 function iLoveTheBeatles(no){
   let array = []
   if (no != 7){
-    n = 0
+    no = 0
   }
 
 
