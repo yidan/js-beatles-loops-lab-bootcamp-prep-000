@@ -29,7 +29,7 @@ function iLoveTheBeatles(no){
 
   while (no>=0){
     array.push("I love the Beatles!")
-    n--
+    no--
   }
 
 }
