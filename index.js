@@ -11,7 +11,7 @@ function theBeatlesPlay(musicians,instruments){
 }
 
 function johnLennonFacts(array){
-  
+
   for (let i=0;i<array.length;i++){
     array[i] += "!!!"
   }
@@ -25,11 +25,11 @@ function iLoveTheBeatles(no){
   if (no != 7){
     n = 0
   }
-  
+
 
   while (no>=0){
     array.push("I love the Beatles!")
     n--
   }
-  
+
 }
